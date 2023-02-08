@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Project Recipe View</string>
+    <string name="bahan_bahan">
+        • 100gr daging kapibara
+        • 500gr nasi putih
+        •
+    </string>
+    <string name="nickname">@capybaranotail</string>
+    <string name="bahan1">• 1kg Daging Kapibara</string>
+    <string name="bahan2">• 500gr Nasi Putih</string>
+    <string name="bahan3">• Wortel yang sudah dikupas</string>
+    <string name="bahan4">• 1 siung bawang putih, diiris halus</string>
+    <string name="bahan5">• 3 butir bawang merah, diiris halus</string>
+    <string name="bahan6">• 2 buah cabai merah, diiris</string>
+    <string name="bahan7">• 2 sdm kecap manis</string>
+    <string name="bahan8">• 1 sdm kaldu ayam</string>
+    <string name="bahan9">• 1 batang daun bawang</string>
+    <string name="bahan10">• 2 sdm minyak</string>
+    <string name="langkah1">Panaskan minyak, tumis bawang putih dan bawang merah hingga harum</string>
+    <string name="langkah2">Masukkan wortel dan cabai, aduk hingga tercampur rata. Masak hingga wortel mulai layu.</string>
+    <string name="langkah3">Tambahkan nasi, kaldu ayam, dan kecap manis. lalu aduk rata</string>
+    <string name="langkah4">Tambahkan daun bawang, aduk rata.</string>
+    <string name="langkah5">Angkat dan sajikan</string>
+    <string name="langkah6">Selesai</string>
+</resources>
